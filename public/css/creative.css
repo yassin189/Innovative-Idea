@@ -1,0 +1,139 @@
+body
+{
+	background-color: #F9F9FF;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #eee; 
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: grey; 
+  border-radius: 10px;
+}
+#MainNav
+{
+	background-color: white;
+	border-color: transparent;
+	border-radius: 0px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.02);
+}
+.text-right
+{
+	text-align: right;
+	float: right;
+}
+.absoluteRightTop
+{
+	position: absolute;
+	right: 25px;
+    top: 2px;
+}
+.navbar-toggle
+{
+	background-color:#282828 !important;
+}
+.navbar-toggle span
+{
+	color: white !important;
+}
+.navbar-nav a
+{
+	color: #282828;
+	font-size: 14px;
+}
+.fa-home
+{
+	color: #3498db;
+	
+}
+.fa-weixin
+{
+	color: #2ecc71;
+		
+}
+.fa-database
+{
+	color: #e74c3c;
+	
+}
+.caret
+{
+	color:#2c3e50;
+}
+._sec_navbar
+{
+	padding-left:10%;
+	padding-right: 10%;
+}
+._navbar_input_search
+{
+	float:right;
+}
+.search_iput
+{
+	background-color: #eee;
+	border-style: none;
+	height: 28px;
+	width: 250px;
+	padding-left: 10px;
+}
+.search_iput::placeholder
+{
+	opacity: .5;
+}
+._search_submit
+{
+	background-color: #eee;
+	border-style: none;
+	height: 28px;
+}
+.fa-search
+{
+	color:#34495e;
+}
+
+._con_card
+{
+	background-color: white;
+	padding-left: 10px;
+	border-radius: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.02);
+	overflow-y: auto;
+}
+.h1_optimzed
+{
+	font-size: 15px;
+
+}
+.display-flex
+{
+	display: flex;
+}
+
+label
+{
+	margin-bottom:0px !important;
+}
+
+.form-group
+{
+	margin-bottom: 10px;
+}
+
+.btn
+{
+	margin-bottom: 5px;
+}
+.tool_holder
+{
+	display: inline-block;
+	background-color: 
+}
