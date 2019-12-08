@@ -4,14 +4,14 @@ A web application to help graduation teams find new, not repeated and innovative
 
 ## Technologies Used
 
-php laravel framework.</br>
-Eloquent ORM.</br>
-MySQL.</br>
-Javascript.</br>
-JQuery.</br>
-Ajax.</br>
-Html.</br>
-Css.
+* php laravel framework.</br>
+* Eloquent ORM.</br>
+* MySQL.</br>
+* Javascript.</br>
+* JQuery.</br>
+* Ajax.</br>
+* Html.</br>
+* Css.
 
 ## Future enhancements and work
 
